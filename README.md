@@ -11,7 +11,7 @@ The Jupyter notebooks used for this analysis are:
 The report below summarizes the findings as a result of the analysis.
 ## School District Analysis Results
 ### District Summary
-The analysis displays totals and averages for all schools and all grades.
+This analysis displays totals and averages for all schools and all grades.
 | Baseline Results | 
 | ---------------- |
 | ![](https://github.com/Hala-INTJ/School_District_Analysis/blob/main/Resources/District%20Summary%20Baseline.png) | 
@@ -21,7 +21,7 @@ The analysis displays totals and averages for all schools and all grades.
 | ![](https://github.com/Hala-INTJ/School_District_Analysis/blob/main/Resources/District%20Summary%20THS%20Nine%20Removed.png) |
 
 ### School Summary
-The analysis displays totals and averages for all grades broken down by school. 
+This analysis displays totals and averages for all grades broken down by school. 
 | Baseline Results | 
 | ---------------- |
 | ![](https://github.com/Hala-INTJ/School_District_Analysis/blob/main/Resources/School%20Summary%20Baseline.png) | 
