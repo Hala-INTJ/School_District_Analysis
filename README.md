@@ -1,7 +1,7 @@
 # Challenge 4: School District Analysis
 
 ## Overview of The School District Analysis
-This analysis is in response to a school board request to assess the impact of possible academic dishonesty in the grades reported for 9th grade class at Thomas High School. The school board wants to know the full extent of the academic dishonesty, so as to uphold the state-testing standards.  Baseline statistics will be generated from the provided school data file.  Then, the Thomas High School 9th grade values will be removed, and the analysis repeated, and then compared with the original results.
+This analysis is in response to a school board request to assess the impact of possible academic dishonesty in the grades reported for 9th grade class at Thomas High School. The school board wants to know the full extent of the academic dishonesty, so as to uphold the state-testing standards. Baseline statistics will be generated from the provided school data file. Then, the Thomas High School 9th grade values will be removed, and the analysis repeated, and then compared with the original results.
 
 The Jupyter notebooks used for this analysis are:
 * Baseline Results: [Challenge Baseline.ipynb](https://github.com/Hala-INTJ/School_District_Analysis/blob/main/Challenge%20Baseline.ipynb). The analysis was conducted using all the provided school data.
@@ -71,10 +71,10 @@ This analysis displays the math and reading scores and percentages by school typ
 | ![](https://github.com/Hala-INTJ/School_District_Analysis/blob/main/Resources/School%20Type%20THS%20Nine%20Removed.png) |
 
 ## School District Analysis Summary
-1. In the "District Summary" the average reading score was unchanged but the average math score dropped by 0.1% after removing Thomas High School math grades for grade 9 students.
-2. In the "School Summary", the Thomas High School the average math score went down by 0.07% and the average reading score went up by 0.05%.
-3. In the "Math Scores By Grade", the average math score for grade 9 for all schools descresed by 0.26%. 
-4. In the "Reading Scores By Grade", the average reading score for grade 9 for all schools descresed by 0.08%.
+1. In the "District Summary", the average reading score was unchanged but the average math score dropped by 0.1% after removing Thomas High School math grades for grade 9 students.
+2. In the "School Summary", the Thomas High School average math score went down by 0.07% and the average reading score went up by 0.05%.
+3. In the "Math Scores By Grade", the average math score for grade 9 for all schools decreased by 0.26%. 
+4. In the "Reading Scores By Grade", the average reading score for grade 9 for all schools decreased by 0.08%.
 5. There were no differences in the average math or reading scores for "Scores By School Spending", "Scores By School Size" and "Scores By School Type".
 
 ### Analysis Conclusion 
