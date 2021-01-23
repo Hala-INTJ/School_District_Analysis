@@ -26,11 +26,11 @@ The report below summarizes the findings as a result of the analysis.
 ### Math Scores By Grade
 | Baseline Results| Cleansed Results |
 | --------------- | ---------------- |
-| ![]() | ![]() |
+| ![](https://github.com/Hala-INTJ/School_District_Analysis/blob/main/Resources/Baseline%20Math%20by%20Grade%20.png) | ![](https://github.com/Hala-INTJ/School_District_Analysis/blob/main/Resources/Math%20by%20Grade%20THS%20Nine%20Removed.png) |
 ### Reading Scores By Grade
 | Baseline Results| Cleansed Results |
 | --------------- | ---------------- |
-| ![]() | ![]() |
+| ![](https://github.com/Hala-INTJ/School_District_Analysis/blob/main/Resources/Baseline%20Reading%20By%20Grade.png) | ![](https://github.com/Hala-INTJ/School_District_Analysis/blob/main/Resources/Math%20by%20Grade%20THS%20Nine%20Removed.png) |
 ### Scores By School Spending 
 | Baseline Results | 
 | ---------------- |
