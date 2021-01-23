@@ -7,9 +7,13 @@ The report below summarizes the findings as a result of the analysis.
 
 ## School District Analysis Results
 ### District Summary
-| Baseline Results| Cleansed Results |
-| --------------- | ---------------- |
-| ![](https://github.com/Hala-INTJ/School_District_Analysis/blob/main/Resources/District%20Summary%20Baseline.png) | ![](https://github.com/Hala-INTJ/School_District_Analysis/blob/main/Resources/District%20Summary%20THS%20Nine%20Removed.png) |
+| Baseline Results | 
+| ---------------- |
+| ![](https://github.com/Hala-INTJ/School_District_Analysis/blob/main/Resources/District%20Summary%20Baseline.png) | 
+
+| Cleansed Results |
+| ---------------- |
+| ![](https://github.com/Hala-INTJ/School_District_Analysis/blob/main/Resources/District%20Summary%20THS%20Nine%20Removed.png) |
 
 ### School Summary
 | Baseline Results| Cleansed Results |
