@@ -38,7 +38,7 @@ This analysis displays math averages by grade and by school with a per grade ave
 This analysis displays reading averages by grade and by school with a per grade average for all schools in the final row.
 | Baseline Results| Cleansed Results |
 | --------------- | ---------------- |
-| ![](https://github.com/Hala-INTJ/School_District_Analysis/blob/main/Resources/Baseline%20Reading%20By%20Grade.png) | ![](https://github.com/Hala-INTJ/School_District_Analysis/blob/main/Resources/Math%20by%20Grade%20THS%20Nine%20Removed.png) |
+| ![](https://github.com/Hala-INTJ/School_District_Analysis/blob/main/Resources/Baseline%20Reading%20By%20Grade.png) | ![](https://github.com/Hala-INTJ/School_District_Analysis/blob/main/Resources/Reading%20by%20Grade%20THS%20Nine%20Removed.png) |
 ### Scores By School Spending 
 This analysis displays the math and reading scores and percentages by spending ranges. 
 | Baseline Results | 
