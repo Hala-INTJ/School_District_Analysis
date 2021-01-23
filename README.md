@@ -3,8 +3,12 @@
 ## Overview of The School District Analysis
 This analysis is in response to a school board request to assess the impact of possible academic dishonesty in the grades reported for 9th grade class at Thomas High School. The school board wants to know the full extent of the academic dishonesty, so as to uphold the state-testing standards.  Baseline statistics will be generated from the provided school data file.  Then, the Thomas High School 9th grade values will be removed, and the analysis repeated, and then compared with the original results.
 
-The report below summarizes the findings as a result of the analysis.
+The Jupyter notebooks used for this analysis are:
+[Challenge Baseline.ipynb](https://github.com/Hala-INTJ/Election_Analysis/blob/main/analysis/election_analysis.txt)
+[PyCitySchools_Challenge.ipynb](https://github.com/Hala-INTJ/Election_Analysis/blob/main/analysis/election_analysis.txt)
 
+
+The report below summarizes the findings as a result of the analysis.
 ## School District Analysis Results
 
 "Baseline Results" include all the provided school data, whereas "Cleansed Results" were calculated with the 9th grades from Thomas High School removed.
@@ -69,3 +73,11 @@ This analysis displays the math and reading scores and percentages by school typ
 | ![](https://github.com/Hala-INTJ/School_District_Analysis/blob/main/Resources/School%20Type%20THS%20Nine%20Removed.png) |
 
 ## School District Analysis Summary
+1. In the "District Summary" the average reading score was unchanged but the average math score dropped by 0.1% after removing Thomas High School math grades for grade 9 students.
+2. In the "School Summary", the Thomas High School the average math score went down by 0.07% and the average reading score went up by 0.05%.
+3. In the "Math Scores By Grade", the average math score for grade 9 for all schools descresed by 0.26%. 
+4. In the "Reading Scores By Grade", the average reading score for grade 9 for all schools descresed by 0.08%.
+5. There were no difference in the average math or reading scores for "Scores By School Spending", "Scores By School Size" and "Scores By School Type".
+
+### Analysis Conclusion 
+It does not appear, given the very small variations in the results, that there is any evidence of academic dishonesty with regards to the math and reading scores for Thomas High School 9th graders. 
