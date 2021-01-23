@@ -16,9 +16,13 @@ The report below summarizes the findings as a result of the analysis.
 | ![](https://github.com/Hala-INTJ/School_District_Analysis/blob/main/Resources/District%20Summary%20THS%20Nine%20Removed.png) |
 
 ### School Summary
-| Baseline Results| Cleansed Results |
-| --------------- | ---------------- |
-| ![]() | ![]() |
+| Baseline Results | 
+| ---------------- |
+| ![](https://github.com/Hala-INTJ/School_District_Analysis/blob/main/Resources/School%20Summary%20Baseline.png) | 
+
+| Cleansed Results |
+| ---------------- |
+| ![](https://github.com/Hala-INTJ/School_District_Analysis/blob/main/Resources/School%20Summary%20THS%20Nine%20Removed.png) |
 ### Math Scores By Grade
 | Baseline Results| Cleansed Results |
 | --------------- | ---------------- |
@@ -28,16 +32,29 @@ The report below summarizes the findings as a result of the analysis.
 | --------------- | ---------------- |
 | ![]() | ![]() |
 ### Scores By School Spending 
-| Baseline Results| Cleansed Results |
-| --------------- | ---------------- |
-| ![]() | ![]() |
+| Baseline Results | 
+| ---------------- |
+| ![](https://github.com/Hala-INTJ/School_District_Analysis/blob/main/Resources/Spending%20Summary%20Baseline.png) | 
+
+| Cleansed Results |
+| ---------------- |
+| ![](https://github.com/Hala-INTJ/School_District_Analysis/blob/main/Resources/Spending%20Summary%20THS%20Nine%20Removed.png) |
 ### Scores By School Size
-| Baseline Results| Cleansed Results |
-| --------------- | ---------------- |
-| ![]() | ![]() |
+| Baseline Results | 
+| ---------------- |
+| ![](https://github.com/Hala-INTJ/School_District_Analysis/blob/main/Resources/School%20Size%20Baseline.png) | 
+
+| Cleansed Results |
+| ---------------- |
+| ![](https://github.com/Hala-INTJ/School_District_Analysis/blob/main/Resources/School%20Size%20THS%20Nine%20Removed.png) |
+
 ### Scores By School Type 
-| Baseline Results| Cleansed Results |
-| --------------- | ---------------- |
-| ![]() | ![]() |
+| Baseline Results | 
+| ---------------- |
+| ![](https://github.com/Hala-INTJ/School_District_Analysis/blob/main/Resources/School%20Type%20Baseline.png) | 
+
+| Cleansed Results |
+| ---------------- |
+| ![](https://github.com/Hala-INTJ/School_District_Analysis/blob/main/Resources/School%20Type%20THS%20Nine%20Removed.png) |
 
 ## School District Analysis Summary
