@@ -4,8 +4,8 @@
 This analysis is in response to a school board request to assess the impact of possible academic dishonesty in the grades reported for 9th grade class at Thomas High School. The school board wants to know the full extent of the academic dishonesty, so as to uphold the state-testing standards.  Baseline statistics will be generated from the provided school data file.  Then, the Thomas High School 9th grade values will be removed, and the analysis repeated, and then compared with the original results.
 
 The Jupyter notebooks used for this analysis are:
-[Challenge Baseline.ipynb](https://github.com/Hala-INTJ/Election_Analysis/blob/main/analysis/election_analysis.txt)
-[PyCitySchools_Challenge.ipynb](https://github.com/Hala-INTJ/Election_Analysis/blob/main/analysis/election_analysis.txt)
+* Baseline Results: [Challenge Baseline.ipynb](https://github.com/Hala-INTJ/School_District_Analysis/blob/main/Challenge%20Baseline.ipynb)
+* Cleansed Results: [PyCitySchools_Challenge.ipynb](https://github.com/Hala-INTJ/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)
 
 
 The report below summarizes the findings as a result of the analysis.
